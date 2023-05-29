@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rashit
 ==============================================================================================================================
 
-Web Developer
+Unity Developer / Web Developer
 -------------
 
 I learn programming since 16 y.o. I tried a lot of directions for this long time. I wrote three games, was a member of championships in mobile development (I won price places), also I solved many sport tasks on programming (like in codewars). I'm going to find my favorite direction in this world of programming and I'm currently interested in web development.
