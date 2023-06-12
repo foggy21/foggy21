@@ -7,7 +7,7 @@ Unity Developer / Web Developer
 I learn programming since 16 y.o. I tried a lot of directions for this long time. I wrote three games, was a member of championships in mobile development (I won price places), also I solved many sport tasks on programming (like in codewars). I'm going to find my favorite direction in this world of programming and I'm currently interested in web development.
 
 * 🌍  I'm based in Earth
-* 🖥️  See my portfolio at [hh.ru](http://vladivostok.hh.ru/applicant/resumes/view?resume=e4072ce9ff0997fd710039ed1f68334563436a)
+* 🖥️  See my portfolio at [itch.io](https://fog-studio.itch.io/)
 * ✉️  You can contact me at [rasithaliullin726@gmail.com](mailto:rasithaliullin726@gmail.com)
 * 🚀  I'm currently working on [Web Development on Java](http://gitlab.com/foggy21)
 * 🧠  I'm learning Java, Spring, ReactJS
